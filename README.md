@@ -6,11 +6,11 @@ The Hearthstone Visualization Design Paper explains the inspiration for the proj
 ### Getting Started 
 There are two options for running this project the first is to visit the live URL https://hearthstone-visualization.shinyapps.io/Hearthstone-Visualization-Project-master/. The other options is to run the project locally from inside RStudio. To accomplish this start by downloading and opening HearthstoneVisualization.Rproj inside of Rstudio. 
 
-![Instruction](Pictures/instructions.png)
+![Step 1](Pictures/instruction1.png)
 
 Then inside the project open the app.R file and click the Run App button
 
-![Instruction](Pictures/instructions.png)
+![Step 2](Pictures/instruction2.png)
 
 
 ### Built With 
@@ -23,4 +23,4 @@ Then inside the project open the app.R file and click the Run App button
 * Kyle Dennison - KyleDennison
 
 
-![Instruction](Pictures/instructions.png)
+![Instruction](Pictures/demoPicture.png)
