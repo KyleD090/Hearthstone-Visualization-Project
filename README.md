@@ -1,4 +1,7 @@
 # Hearthstone Visualization Project
+
+![Instruction](Pictures/demoPicture.png)
+
 This is a project that was created as a final project for a Data Visualization course from Feburary to March 2018. The goal of this project was to create a Shiny app that presents four visualizations of interesting information for each playable class in Hearthstone using data collected from http://www.hearthstonetopdecks.com/. This project was sucessful in creating multiple useful visualizations like a stacked bar chart of card rarities, pie chart of spells to minions ratio, bar chart of minions health, and a box-and-whisker plot of mana costs compared to rarity. 
 
 The Hearthstone Visualization Design Paper explains the inspiration for the project, its intended audience, and why each visualization was chosen. It also explains the characteristics of the cards found in the cards.csv file and how they work in the context of games in Hearthstone.  
@@ -23,4 +26,3 @@ Then inside the project open the app.R file and click the Run App button
 * Kyle Dennison - KyleDennison
 
 
-![Instruction](Pictures/demoPicture.png)
